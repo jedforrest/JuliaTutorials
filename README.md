@@ -22,6 +22,6 @@ and for those with [some julia experience](https://docs.sciml.ai/Catalyst/stable
 
 1. [Intro to Julia](Tutorial1.ipynb)
 2. [Intro to Catalyst](Tutorial2.ipynb)
-3. Chemical reaction networks with Catalyst.jl
-4. Groebner Basis with Oscar.jl
-5. Catalyst + Oscar.jl
+3. [CRN theory](Tutorial3.ipynb)
+4. Groebner Basis with Oscar
+5. Catalyst + Oscar
