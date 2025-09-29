@@ -6,8 +6,8 @@ Interactive tutorials for using Julia and packages relevant to Chemical Reaction
 1. [Getting Started](Tutorial1.ipynb)
 2. [Intro to Catalyst](Tutorial2.ipynb)
 3. [Simulating CRN](Tutorial3.ipynb)
-4. Groebner Basis with Oscar
-5. Catalyst + Oscar (including independent decomposition)
+4. [Groebner Basis with Oscar](Tutorial4.ipynb)
+5. [Catalyst + Oscar](Tutorial.ipynb)
 
 
 ## Recommend resources
