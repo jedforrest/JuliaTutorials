@@ -3,12 +3,15 @@ Interactive tutorials for using Julia and packages relevant to Chemical Reaction
 
 ## Contents
 
+**Tutorials**
 1. [Getting Started](Tutorial1.ipynb)
 2. [Intro to Catalyst](Tutorial2.ipynb)
 3. [Simulating CRN](Tutorial3.ipynb)
 4. [Groebner Basis with Oscar](Tutorial4.ipynb)
 5. [Catalyst + Oscar](Tutorial.ipynb)
 
+**Examples**
+- [Cholesterol Regulation](cholesterol.ipynb)
 
 ## Recommend resources
 - Julia [Documentation](https://docs.julialang.org/en/v1/) and [Getting Started](https://docs.julialang.org/en/v1/manual/getting-started/) page
